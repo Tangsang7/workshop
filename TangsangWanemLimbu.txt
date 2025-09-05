@@ -1,0 +1,29 @@
+Name: Tangsang Wanem Limbu
+Roll no: 44
+Days present: 6 days 
+Netlify site url: Tangsang00.netlify.app
+
+Learnings
+------------------------------------
+	¯ Git init ( lets you track the files)
+	¯ Git status
+        - Git log 
+	¯ Git diff (tells you what are the changes that occurred)
+	¯ Git config --global user.name "(your name)" 
+	¯ Git config --global user.email "(your email)"                           
+        ¯ Ways to create git branch
+	¯       Git branch (branch name)
+         -this creates the branch but we are not in the branch right now. 
+	¯      Git checkout (branch name)
+          -this allow us to enter in the recent branch we just created. 
+
+	¯ Another way of creating git branch
+	¯     Git checkout -b (branch name)
+           -this creates the branch and also directly enter us in that branch. 
+       - Git merge (with this we can merge the branches that we create)
+       -Git push and git pull
+       
+
+
+
+
